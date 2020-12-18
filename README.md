@@ -21,8 +21,9 @@ This project will show off the software skills, including the ability to create 
 
 ### The view from web app 
 #### The overview of the training dataset
-[Trainingdata_overview].(https://github.com/XueWang2019/Disaster_Response_Pipeline/blob/master/app/Trainingdata_overview_screenshot.png)
+
+[Trainingdata_overview](https://github.com/XueWang2019/Disaster_Response_Pipeline/blob/master/app/Trainingdata_overview_screenshot.png)
 
 #### The classfied message
-[Classified message].(https://github.com/XueWang2019/Disaster_Response_Pipeline/blob/master/app/Classify_message.png)
+[Classified message](https://github.com/XueWang2019/Disaster_Response_Pipeline/blob/master/app/Classify_message.png)
 
