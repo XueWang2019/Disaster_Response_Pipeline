@@ -10,8 +10,8 @@ This project will show off the software skills, including the ability to create 
 ```
 - app  
 | - template  
-|   |- master.html  # main page of web app  
-|   |- go.html  # classification result page of web app  
+| |- master.html  # main page of web app  
+| |- go.html  # classification result page of web app  
 |- run.py  # Flask file that runs app  
 |- Classify_message.png  
 |- Trainingdata_overview_screenshot.png  
