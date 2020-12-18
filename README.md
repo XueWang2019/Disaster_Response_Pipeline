@@ -42,7 +42,7 @@ This project will show off the software skills, including the ability to create 
 
 3. Go to http://0.0.0.0:3001/
 
-### The view from web app 
+### Output: views from web app 
 
 [Trainingdata_overview](https://github.com/XueWang2019/Disaster_Response_Pipeline/blob/master/app/Trainingdata_overview_screenshot.png)
 
