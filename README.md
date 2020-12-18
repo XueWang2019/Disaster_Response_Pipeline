@@ -24,7 +24,7 @@ This project will show off the software skills, including the ability to create 
 
 - models  
 |- train_classifier.py  
-|- classifier.pkl  # saved model   
+|- classifier.pkl  # saved model (This file is too big, and can't be uploaded to github)  
 
 - README.md  
 ```
