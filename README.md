@@ -40,7 +40,7 @@ This project will show off the software skills, including the ability to create 
 2. Run the following command in the app's directory to run your web app.
     `python app/run.py`
 
-3. Go to http://0.0.0.0:3001/
+3. Go to localhost:3001/
 
 ### Output: views from web app 
 
